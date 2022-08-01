@@ -2,8 +2,8 @@
 
 Here's a brief guide to our repositories and what's inside.
 
-* [FrontPage](https://github.com/kuy-belajar/client-frontpage) FrontPage repository.
-* [MemberPage](https://github.com/kuy-belajar/client-memberpage) FrontPage repository.
+* [FrontPage](https://github.com/kuy-belajar/client-frontpage) Front Page repository.
+* [MemberPage](https://github.com/kuy-belajar/client-memberpage) Member Page repository.
 * [APIGateway](https://github.com/kuy-belajar/api-gateway) API Gateway repository.
 * [Service: Member](https://github.com/kuy-belajar/service-member) Service: Member repository.
 * [Service: Media](https://github.com/kuy-belajar/service-media) Service: Media repository.
