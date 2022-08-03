@@ -12,7 +12,7 @@ Here's a brief guide to our repositories and what's inside.
 
 ## Temporary URLs:
 
-Temporary domains.
+Temporary urls.
 
 * [FrontPage](http://front-page.zekhoi.dev/)
 * [MemberPage](http://member-page.zekhoi.dev/)
